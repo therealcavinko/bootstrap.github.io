@@ -1,0 +1,36 @@
+header {
+    background-color: green;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+button {
+    float: right;
+}
+#main-bio {
+    width: 70%;
+    border: 15px;
+    padding: 20px;
+    margin: 20px;
+    background:teal;
+    height: 200%;
+    width: 100%;
+    font-size: 25px;
+  }
+  footer {
+    color: white;
+    background: green;
+    height: 100px;
+    width: 100%;
+  }
+
+  #box {
+    width: 80%;
+      border: 15px;
+      padding: 20px;
+      margin: 20px;
+      background:teal;
+      height: 100%;
+     
+  }
